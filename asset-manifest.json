@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vn-turbo/static/css/main.94698921.css",
+    "main.js": "/vn-turbo/static/js/main.459ca4b5.js",
+    "static/js/787.9fe2f9c3.chunk.js": "/vn-turbo/static/js/787.9fe2f9c3.chunk.js",
+    "index.html": "/vn-turbo/index.html",
+    "main.94698921.css.map": "/vn-turbo/static/css/main.94698921.css.map",
+    "main.459ca4b5.js.map": "/vn-turbo/static/js/main.459ca4b5.js.map",
+    "787.9fe2f9c3.chunk.js.map": "/vn-turbo/static/js/787.9fe2f9c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94698921.css",
+    "static/js/main.459ca4b5.js"
+  ]
+}
