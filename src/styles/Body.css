@@ -1,0 +1,36 @@
+.body-container {
+    background-color: #8e1c1c;
+    min-height: 100vh;
+    display: flex;
+}
+.body-container__middle {
+    width: 55vw;
+    background-color: #1c8e8e;
+    max-height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 100vh;
+    scroll-behavior: smooth;
+    padding-top: 55px;
+}
+.body-container__middle::-webkit-scrollbar {
+    width: 0.5rem;
+  }
+  .body-container__middle::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  .body-container__middle::-webkit-scrollbar-thumb {
+    background: rgba(35, 194, 119, 0.577);
+  }
+  .body-container__middle::-webkit-scrollbar-thumb:hover {
+    background: rgb(16, 160, 179);
+  }
+.body-container__right {
+    width: 25vw;
+    background-color: antiquewhite;
+    max-height: 100vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    height: 100vh;
+    padding-top: 55px;
+}
